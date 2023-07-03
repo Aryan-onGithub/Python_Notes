@@ -1,0 +1,24 @@
+huvver over functions to find what operation can you perform with them
+
+ctrl+D to replicate line multiple
+
+ctrl+/   comment out selected lines or use
+alt   create multiple cursors by holding alt for typing same thing in different locations simultaneously
+
+right click and select to run to run a specific file if you are working on a big project
+
+we can hovver over sting methods to know what it does, you also get a link to python docs for detailed info
+
+Soft-wrap  right click over line numbers and soft wrap for all lines to come under screen
+
+project screen-  click on folder icon near left to "select opend files" near project on left side to, to only show project, project files, opened files for convenience
+
+we can double click on console upper bazzle to make it full screen or normal
+
+safe delete feature: pycharm has a safe delete feature that checks weather a file is linked to other files, if thats the case then it will give warning if you try to delete that file and also gives where it is used, this is also called refactor
+
+Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+select a text of code and press tab to take it inside a program scope
+
+shift+ctrl to move code up or down using arrow keys

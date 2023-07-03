@@ -1,0 +1,15 @@
+#variabl names are case sensitive
+
+string can be defined by
+
+a = 'aryan'
+b = "aryan"
+c = '''aryan'''
+#c can be a multi-line string because we use ''' '''
+
+we use , to print multiple statements inprint statement
+print(a, b, c)
+
+
+if __name__ == '__main__':        #main program start form here (main method for python)
+     pass                         #we wrote pass as our main method was empty and pass help us to not get any error
